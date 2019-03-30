@@ -1,10 +1,9 @@
 # _Airspace_ for Jekyll
-![screenshot](screenshots/home.png "Description goes here")
 
-This Jekyll theme is a port of ThemeFisher's Airspace template. It is released under ThemeFisher's free license, which requires attribution.
+This Jekyll theme is a port of ThemeFisher's Pavza template.
 
 ## Usage
-To start your project, [fork this respository](https://github.com/ndrewtl/airspace-jekyll/fork), put in your content, and go!
+
 
 ## Examples
 Here are some projects that have used this Jekyll Theme:
