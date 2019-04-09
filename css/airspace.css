@@ -57,8 +57,8 @@ a:active {
   font-weight: 600;
 }
 .section-title p {
-  font-family: 'Volkhov', serif;
-  font-style: italic;
+  /*font-family: 'Volkhov', serif;*/
+  /*font-style: italic;*/
   color: #666;
 }
 /*--
@@ -73,7 +73,7 @@ header .navbar {
   border: 0px;
 }
 header .navbar-brand {
-  padding-top: 5px;
+  padding-top: 10px;
 }
 header .navbar-default {
   background: none;
@@ -314,7 +314,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #testimonial .testimonial-carousel .user img {
   padding-bottom: 0px;
-  border-radius: 500px;
+  /*border-radius: 700px;*/
 }
 #testimonial .testimonial-carousel .user p {
   padding-bottom: 0;
