@@ -5,7 +5,6 @@
 This team is a startup!. 
 
 
-@bogami
 @oguzhan
 @kmluns
 
